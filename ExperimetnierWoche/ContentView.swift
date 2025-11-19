@@ -14,10 +14,8 @@ struct ContentView: View {
     
     var body: some View {
         ZStack {
-            
             backgroundColor
-            
-            CameraView()
+            OverView()
         }
     }
 }
